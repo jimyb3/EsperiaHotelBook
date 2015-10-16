@@ -1,2 +1,2 @@
 # EsperiaHotelBook
-The EsperiaHotelBook is an app for Android Device. With it the user can book for a room at Esperia Hotel in Kavala of Greece.
+"EsperiaHotelBook" is an app for Android devices. The user of "EsperiaHotelBook" is able to make a reservation at Esperia Hotel with an automated SMS.
